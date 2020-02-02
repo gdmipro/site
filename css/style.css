@@ -1,0 +1,19 @@
+
+body {
+    font-family: Arial;
+    background: lightyellow;
+}
+
+h1 {
+    text-align: center;
+    color: red;
+}
+
+p {
+    font-size: 18pt;
+    color: blue;
+    border: 1px solid grey;
+    width: 450px;
+    text-align: center;
+    background: lightgreen
+}
